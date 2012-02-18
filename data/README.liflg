@@ -1,0 +1,40 @@
+
+		Heavy Metal F.A.K.K.2: English version 1.02
+	       (http://www.lokigames.com/products/fakk2/)
+
+========================================
+
+ABOUT
+====
+
+	This is an updated installer for the Loki version of Heavy Metal
+	F.A.K.K.2
+	It contains the most recent patch and some workarounds to 
+	get this game working with current Linux distributions.
+
+SYSTEM REQUIREMENTS
+==============
+
+	- The Loki Heavy Metal F.A.K.K.2 disc
+
+RUNNING THE GAME
+============
+
+	Run "fakk2.sh" to play. 
+
+NOTES
+====
+
+	- including a workaround for the "Segmentation fault" problem
+	  and a crash bug (http://icculus.org/~chunky/fakk2/)
+	 
+	- it may hang after quitting, change to another terminal and
+	  type: killall -15 fakk2 or just wait about 30 seconds
+
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Linux Installers for Linux Gamers Team
